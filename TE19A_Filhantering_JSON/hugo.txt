@@ -1,0 +1,1 @@
+{"Name":"Hugo","Caring":100,"Huggability":3}
